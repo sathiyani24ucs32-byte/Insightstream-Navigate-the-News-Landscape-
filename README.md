@@ -1,7 +1,7 @@
+insight stream demo link:https://drive.google.com/file/d/1ugJIaE5ktK98g635ZVvGw7uYof69pZHw/view?usp=sharing
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
 ## Available Scripts
 
 In the project directory, you can run:
